@@ -6,6 +6,9 @@ Links to DevSecOps:
 Links to Chaos Engineering:
 https://github.com/Lowkh/Practice_Chaos_Engineering_Basic_2026
 
+Template for Chaos Engineering:
+https://github.com/Lowkh/Practice_Chaos_Engineering_Template
+
 Optional Links:
 GitHub Actions Basic To Intermediate:
 https://github.com/Lowkh/Practice_GitHub_Actions_BasicIntermediate
