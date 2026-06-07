@@ -2,6 +2,7 @@
 > *"Quality is not an act, it is a habit."* — Aristotle
 
 Links to DevSecOps:
+https://github.com/Lowkh/Practice_DevSecOps_2026
 
 Links to Chaos Engineering:
 https://github.com/Lowkh/Practice_Chaos_Engineering_Basic_2026
